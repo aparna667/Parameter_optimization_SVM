@@ -1,1 +1,2 @@
 
+This is a machine learning script written in Python using the scikit-learn library to perform classification on the "letter-recognition" dataset from the UCI Machine Learning Repository. The script uses the NuSVC algorithm to train a model and find the best hyperparameters for each sample in the dataset.
