@@ -15,6 +15,8 @@ The code will start running and will output a table showing the best accuracy, k
 
 ## Results:
 The code outputs a table showing the best accuracy, kernel, nu, and epsilon values for each sample. The convergence graph shows the accuracy of the NuSVC algorithm for the sample with the highest accuracy. By analyzing the results, you can determine which kernel function and parameter values work best for the classification of the letter images.
+![Convergence graph](https://github.com/aparna667/Parameter_optimization_SVM/blob/main/convergence_graph.png)
+
 
 ## Further Improvements:
 This code can be improved in several ways, including:
